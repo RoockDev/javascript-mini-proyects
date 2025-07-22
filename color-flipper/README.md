@@ -24,9 +24,9 @@ Este es un mini-proyecto interactivo desarrollado con HTML, CSS y JavaScript pur
 ## 📸 Capturas de Pantalla
 
 ¡Aquí puedes ver el proyecto en acción!
-!(assets/MainScreenShoot.png)
-!(assets/SimpleScreenShoot.png)
-!(assets/HexScreenShoot.png)
+![image1](assets/MainScreenShoot.png)
+![image2](assets/SimpleScreenShoot.png)
+![image3](assets/HexScreenShoot.png)
 ---
 
 ## 💡 Cómo Ejecutar el Proyecto
